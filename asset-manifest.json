@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syncfusion-demo/static/css/main.3236fdcf.css",
+    "main.js": "/syncfusion-demo/static/js/main.a078aa84.js",
+    "index.html": "/syncfusion-demo/index.html",
+    "main.3236fdcf.css.map": "/syncfusion-demo/static/css/main.3236fdcf.css.map",
+    "main.a078aa84.js.map": "/syncfusion-demo/static/js/main.a078aa84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3236fdcf.css",
+    "static/js/main.a078aa84.js"
+  ]
+}
